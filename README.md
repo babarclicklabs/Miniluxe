@@ -1,0 +1,4 @@
+Miniluxe
+========
+
+Miniluxe Admin panel
